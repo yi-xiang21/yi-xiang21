@@ -1,18 +1,17 @@
-# 👋 Xin chào, mình là [Tên của bạn]
+# 👋 Xin chào, mình là Lý Hậu Nghĩa
 
 ## 🧑‍💻 Giới thiệu ngắn gọn
-- 💼 Hiện tại: [Vị trí công việc hiện tại hoặc định hướng nghề nghiệp]
-- 🎓 Học vấn: [Chuyên ngành / trường / khóa học liên quan]
-- 🌱 Đang học: [Công nghệ / kỹ năng bạn đang trau dồi]
-- 🎯 Mục tiêu nghề nghiệp: [Ngắn gọn định hướng bạn muốn phát triển]
+- 💼 Hiện tại: Sinh Viên năm 4 ngành CNTT
+- 🎓 Học vấn: Trường đại học Công Nghệ Sài Gòn
+- 🎯 Mục tiêu nghề nghiệp: Trở thành một full-stack developer 
 
 ---
 
 ## 🚀 Kỹ năng chính
-- **Ngôn ngữ lập trình**: [Ví dụ: Python, Java, JavaScript, C++]
-- **Cơ sở dữ liệu**: [Ví dụ: MySQL, PostgreSQL, MongoDB]
-- **Frameworks / Libraries**: [Ví dụ: React, Node.js, Spring Boot]
-- **Công cụ / Nền tảng**: [Git, Docker, AWS, Linux]
+- **Ngôn ngữ lập trình**:Java,C++,Js,HTML & CSS,C#
+- **Cơ sở dữ liệu**: MySQL
+- **Frameworks / Libraries**: React, Node.js
+- **Công cụ / Nền tảng**: Git
 
 ---
 
@@ -24,14 +23,6 @@
 ### 🔹 [Tên dự án 2](Link tới repo hoặc demo)
 - 📌 Mô tả ngắn gọn  
 - 💡 Điểm nổi bật
-
----
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Liên hệ
 - 📧 Email: [email của bạn]
